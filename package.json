@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/unalterable/k8s-pod-demo#readme",
   "dependencies": {
+    "ua-parser-js": "^0.7.18",
     "uuid": "^3.3.2"
   }
 }
