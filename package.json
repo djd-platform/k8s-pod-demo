@@ -1,0 +1,22 @@
+{
+  "name": "k8s-pod-demo",
+  "version": "1.0.0",
+  "description": "A node web server that shows when it has been updated",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unalterable/k8s-pod-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unalterable/k8s-pod-demo/issues"
+  },
+  "homepage": "https://github.com/unalterable/k8s-pod-demo#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
